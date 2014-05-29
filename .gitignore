@@ -1,0 +1,7 @@
+Model/target/*
+ViewController/target/*
+
+Model/classes/*
+ViewController/classes/*
+
+ViewController/public_html/WEB-INF/lib/adf-faces-databinding-rt-12.1.2-0-0.jar
